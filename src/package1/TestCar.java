@@ -30,3 +30,6 @@ public class TestCar {
         System.out.println(car2.displayCarName());
     }
 }
+// 5+5 = 10;
+
+// 5+1= 6;
